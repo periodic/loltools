@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "github.com/OwenDurni/loltools/ddragon"
+  "ddragon"
   "net/http"
   "io"
   "io/ioutil"
@@ -42,7 +42,7 @@ func main() {
   fmt.Fprintf(f, "package riot\n")
   fmt.Fprintf(f, "\n")
   fmt.Fprintf(f, "import (\n")
-  fmt.Fprintf(f, "  \"github.com/OwenDurni/loltools/ddragon\"\n")
+  fmt.Fprintf(f, "  \"ddragon\"\n")
   fmt.Fprintf(f, "  \"io\"\n")
   fmt.Fprintf(f, ")\n")
   fmt.Fprintf(f, "\n")

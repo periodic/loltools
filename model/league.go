@@ -5,7 +5,7 @@ import (
   "appengine/datastore"
   "errors"
   "fmt"
-  "github.com/OwenDurni/loltools/util/errwrap"
+  "util/errwrap"
   "time"
 )
 

@@ -6,7 +6,7 @@ import (
   "errors"
   "fmt"
   "html/template"
-  "github.com/OwenDurni/loltools/riot"
+  "riot"
   "io/ioutil"
   "net/http"
   "time"

@@ -4,10 +4,10 @@ import (
   "appengine"
   "appengine/user"
   "fmt"
-  "github.com/OwenDurni/loltools/model"
-  "github.com/OwenDurni/loltools/task"
-  "github.com/OwenDurni/loltools/util/dispatch"
-  "github.com/OwenDurni/loltools/view"
+  "model"
+  "task"
+  "util/dispatch"
+  "view"
   "net/http"
 )
 

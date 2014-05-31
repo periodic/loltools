@@ -3,8 +3,8 @@ package task
 import (
   "appengine"
   "fmt"
-  "github.com/OwenDurni/loltools/model"
-  "github.com/OwenDurni/loltools/view"
+  "model"
+  "view"
   "net/http"
 )
 

@@ -5,7 +5,7 @@ import (
   "appengine/datastore"
   "errors"
   "fmt"
-  "github.com/OwenDurni/loltools/model"
+  "model"
   "net/http"
 )
 

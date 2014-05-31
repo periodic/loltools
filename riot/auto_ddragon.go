@@ -1,7 +1,7 @@
 package riot
 
 import (
-  "github.com/OwenDurni/loltools/ddragon"
+  "ddragon"
   "io"
 )
 

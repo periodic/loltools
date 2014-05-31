@@ -3,7 +3,7 @@ package view
 import (
   "appengine"
   "fmt"
-  "github.com/OwenDurni/loltools/model"
+  "model"
   "net/http"
   "time"
 )

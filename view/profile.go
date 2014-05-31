@@ -2,7 +2,7 @@ package view
 
 import (
   "appengine"
-  "github.com/OwenDurni/loltools/model"
+  "model"
   "net/http"
 )
 

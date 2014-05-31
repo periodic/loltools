@@ -3,7 +3,7 @@ package view
 import (
   "appengine"
   "appengine/datastore"
-  "github.com/OwenDurni/loltools/model"
+  "model"
   "net/http"
 )
 
